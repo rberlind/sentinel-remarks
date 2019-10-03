@@ -8,7 +8,6 @@ Roger Berlind: Sr. Solutions Engineer: Hashicorp
 
 ---
 name: agenda
-class: center,middle
 # Agenda
 
 1. What is Sentinel?
