@@ -1,11 +1,13 @@
 name: introduction-to-sentinel
-class: center, middle
+class: center, middle, title-slide
 count: false
 ![:scale 30%](images/HashiCorp_PrimaryLogo_Black.png)
-# Introduction to Sentinel
+.titletext[Introduction to Sentinel]
+Roger Berlind: Sr. Solutions Engineer
 
 ---
 name: agenda
+class: center,middle
 # Agenda
 
 1. What is Sentinel?
