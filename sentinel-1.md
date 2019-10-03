@@ -2,7 +2,8 @@ name: introduction-to-sentinel
 class: center, middle, title-slide
 count: false
 ![:scale 30%](images/HashiCorp_PrimaryLogo_Black.png)
-.titletext[Introduction to Sentinel]
+.titletext[
+Introduction to Sentinel]
 Roger Berlind: Sr. Solutions Engineer
 
 ---
