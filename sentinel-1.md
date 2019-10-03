@@ -4,7 +4,7 @@ count: false
 ![:scale 30%](images/HashiCorp_PrimaryLogo_Black.png)
 .titletext[
 Introduction to Sentinel]
-Roger Berlind: Sr. Solutions Engineer
+Roger Berlind: Sr. Solutions Engineer: Hashicorp
 
 ---
 name: agenda
