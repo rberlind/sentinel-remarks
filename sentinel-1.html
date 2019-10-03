@@ -19,7 +19,7 @@
   <body>
     <textarea id="source">
 
-name: Sentinel
+name: introduction-to-sentinel
 class: center, middle, title-slide
 count: false
 ![:scale 100%](images/HashiCorp_PrimaryLogo_Black.png)
@@ -29,6 +29,7 @@ Introduction to Sentinel]
 Roger Berlind: Sr. Solutions Engineer, HashiCorp
 
 ---
+name: agenda
 # Agenda
 
 1. What is Sentinel?
@@ -37,6 +38,7 @@ Roger Berlind: Sr. Solutions Engineer, HashiCorp
 4. Managing Policy Sets and Policies
 
 ---
+name: what-is-sentinel
 # What is Sentinel?
 
 * Sentinel implements governance policies as code in the same way that Terraform implements infrastructure as code.
@@ -45,6 +47,7 @@ Roger Berlind: Sr. Solutions Engineer, HashiCorp
 * It includes a simulator for testing policies.
 
 ---
+name: how-is-sentinel-used-in-tfc
 # How is Sentinel used in Terraform Cloud
 
 * Sentinel policy checks are run between the plan and apply steps of TFC runs.
@@ -53,6 +56,7 @@ Roger Berlind: Sr. Solutions Engineer, HashiCorp
 * Mocks can be generated for testing with the Sentinel Simulator.
 
 ---
+name: writing-testing-policies
 # Writing and Testing Sentinel Policies
 
 * Here is the 8 step methodology for writing and testing Sentinel policies in Terraform:
@@ -67,6 +71,7 @@ Roger Berlind: Sr. Solutions Engineer, HashiCorp
 * For more details, see this [guide](https://www.hashicorp.com/resources/writing-and-testing-sentinel-policies-for-terraform).
 
 ---
+name: managing-policy-sets
 # Manging Policy Sets and Policies
 
 * Policy Sets contain policies
